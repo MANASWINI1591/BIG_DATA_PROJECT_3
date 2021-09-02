@@ -6,7 +6,7 @@ Spark Streaming of RSVPs from meetup.com API using Kafka
 
 Getting this streaming data into Apache Spark-Streaming is the first step to perform various analytics, recommendations or visualizations on the data.
 
-## Technologies Used
+# Technologies Used
 
 * Kafka 2.8
 * Spark 2.4.5
@@ -17,7 +17,7 @@ Getting this streaming data into Apache Spark-Streaming is the first step to per
 
 [Kafka Python API](https://github.com/dpkp/kafka-python) is used to interact with kafka cluster. PySpark is used to write the spark streaming jobs.
 
-## Execute the Application
+# Execute the Application
 
 Assuming Kafka and Spark of appropriate version is installed, the following commands are used to run the application.
 
